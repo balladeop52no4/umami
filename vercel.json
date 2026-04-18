@@ -1,0 +1,12 @@
+{
+  "rewrites": [
+    {
+      "source": "/script.js",
+      "destination": "/api/script"
+    },
+    {
+      "source": "/umami.js",
+      "destination": "/api/script"
+    }
+  ]
+}
